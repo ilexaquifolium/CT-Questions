@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.2.27)  3 MAR 2019 16:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.27)  20 MAY 2019 10:17
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -489,18 +489,18 @@ LaTeX Font Info:    Font shape `OMS/pxr/m/n' in size <10> not available
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ] [2] [3] [4] [5] [6] [7] [8]
-LaTeX Font Info:    Try loading font information for OMS+pxtt on input line 349
+LaTeX Font Info:    Try loading font information for OMS+pxtt on input line 345
 .
-LaTeX Font Info:    No file OMSpxtt.fd. on input line 349.
+LaTeX Font Info:    No file OMSpxtt.fd. on input line 345.
 
 
 LaTeX Font Warning: Font shape `OMS/pxtt/m/n' undefined
 (Font)              using `OMS/pxsy/m/n' instead
-(Font)              for symbol `textbraceleft' on input line 349.
+(Font)              for symbol `textbraceleft' on input line 345.
 
 [9] [10]
-This exam contains 18 questions with 2 parts, 0 subparts, and 0 subsubparts.
-This exam has a total of 116 points.
+This exam contains 17 questions with 2 parts, 0 subparts, and 0 subsubparts.
+This exam has a total of 112 points.
 This exam has a total of 0 bonus points.
 (./Topic 5.aux)
 
@@ -508,11 +508,11 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 6250 strings out of 492616
- 80986 string characters out of 6135177
+ 6246 strings out of 492616
+ 80907 string characters out of 6135177
  347340 words of memory out of 5000000
- 10069 multiletter control sequences out of 15000+600000
- 19220 words of font info for 60 fonts, out of 8000000 for 9000
+ 10064 multiletter control sequences out of 15000+600000
+ 19457 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,10n,40p,360b,1357s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-dist/fon
@@ -524,7 +524,7 @@ fonts/rpxr.pfb></usr/share/texmf-dist/fonts/type1/public/txfonts/txbtt.pfb></us
 r/share/texmf-dist/fonts/type1/public/txfonts/txtt.pfb></usr/share/texmf-dist/f
 onts/type1/urw/palatino/uplb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palat
 ino/uplr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "Topic 5.pdf" (10 pages, 83152 bytes).
+Output written on "Topic 5.pdf" (10 pages, 85241 bytes).
 PDF statistics:
  82 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

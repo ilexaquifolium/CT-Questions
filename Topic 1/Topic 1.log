@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.2.27)  1 MAR 2019 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex 2019.4.27)  19 MAY 2019 20:23
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -265,7 +265,7 @@ hare/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/
 fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr9.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 msy10.pfb>
-Output written on "Topic 1.pdf" (6 pages, 322109 bytes).
+Output written on "Topic 1.pdf" (6 pages, 322121 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  47 compressed objects within 1 object stream
