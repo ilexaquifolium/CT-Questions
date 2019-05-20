@@ -16,8 +16,8 @@
 \pagestyle{headandfoot}
 \firstpageheadrule
 \runningheadrule
-\firstpageheader{CT}{}{Sam Robbins}
-\runningheader{CT}{How can we measure how good an algorithm is?}{Sam Robbins}
+\firstpageheader{CT - Topic 7}{}{Sam Robbins}
+\runningheader{CT - Topic 7}{How can we measure how good an algorithm is?}{Sam Robbins}
 \firstpagefooter{}{}{}
 \runningfooter{}{}{}
 \renewcommand{\solutiontitle}{\noindent\textbf{Solution:}\par\noindent}
@@ -120,7 +120,7 @@ solve your problem and why
 \question[4]
 Define precisely what we mean when we say that two functions $f(n):\mathbb{N}\rightarrow\mathbb{N}$ and $g(n):\mathbb{N}\rightarrow\mathbb{N}$ are such that $f=\Omega(g)$ What does it mean in practice if we say that any algorithm solving the sorting problem has time complexity $\Omega(n\log n)$?
 \begin{solution}[2in]
-	If there exists $n_0\in \mathbb{N}$ and $k\in Q$ such that $g(n)\geqslant k\cdot f(n)$ wherever $n\geqslant n_0$. The algorithm can't take more than $n\log n$ steps
+	If there exists $n_0\in \mathbb{N}$ and $k\in Q$ such that $f(n)\geqslant k\cdot g(n)$ wherever $n\geqslant n_0$. The algorithm can't take more than $n\log n$ steps
 \end{solution}
 
 \question[4]Define precisely what we mean when we say that two functions $f(n):\mathbb{N}\rightarrow\mathbb{N}$ and $g(n):\mathbb{N}\rightarrow\mathbb{N}$ are such that $f=\Theta(g)$. What does it mean in practice if we say that solving the sorting problem has time complexity $\Theta(n\log n)$
